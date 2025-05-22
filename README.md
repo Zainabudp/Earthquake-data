@@ -37,3 +37,10 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson
 - The complete map, showing all earthquake events, is saved as an HTML file:
 m.save('Earthquake Data: 2.5+ Week.html')
 - The user can open this file in a browser to explore earthquake occurrences.
+
+API Source
+- URL: USGS Earthquake Feed
+- Data Type: GeoJSON
+- Frequency of Updates: Continuous
+- Magnitude Range: 2.5+ earthquakes from the past week
+
